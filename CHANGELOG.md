@@ -77,7 +77,7 @@ Instead of `rake build` and `rake deploy`, you should now run `bundle exec middl
 - Remove crash on invalid languages
 - Update Tocify to scroll to the highlighted header in the Table of Contents
 - Fix variable leak and update search algorithms
-- Update Python examples to be valid Python
+- Update python examples to be valid python
 - Update gems
 - More misc. bugfixes of Javascript errors
 - Add Dockerfile
